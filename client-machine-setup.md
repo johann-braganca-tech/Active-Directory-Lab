@@ -11,7 +11,7 @@ A Windows 10 Enterprise virtual machine was configured to simulate a domain clie
 ### Configuration:
 - Hostname: CLIENT01
 
-### 📸 Output
+### Output
 
 ![Client Setup](https://github.com/user-attachments/assets/c13976e6-239a-4c03-a59c-5c2f19f7350e)
 
