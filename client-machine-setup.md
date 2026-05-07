@@ -17,7 +17,7 @@ A Windows 10 Enterprise virtual machine was configured to simulate a domain clie
 
 ---
 
-## 1. Verify Network Connectivity
+## 1. Verify Connectivity using IP Address
 
 **Command:**
 ```bash
@@ -27,7 +27,7 @@ ping 192.168.26.129
 <img width="2182" height="1242" alt="Image" src="https://github.com/user-attachments/assets/9ceea55d-4d64-4e73-b73c-656b56d22b25" />
 
 
-2. Verify Connectivity Using Domain Name
+## 2. Verify Connectivity Using Domain Name
 
 **Command:**
 ```bash
