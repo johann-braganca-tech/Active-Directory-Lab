@@ -13,7 +13,11 @@ A Windows 10 Enterprise virtual machine was configured to simulate a domain clie
 
 ### Output
 
-![Client Setup](https://github.com/user-attachments/assets/c13976e6-239a-4c03-a59c-5c2f19f7350e)
+Client Setup
+
+<img width="2182" height="1240" alt="Image" src="https://github.com/user-attachments/assets/ef1fcf0e-ae15-48a5-b93d-e52e032376f0" />
+
+<img width="2182" height="1237" alt="Image" src="https://github.com/user-attachments/assets/c13976e6-239a-4c03-a59c-5c2f19f7350e" />
 
 ---
 
