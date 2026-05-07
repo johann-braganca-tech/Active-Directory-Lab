@@ -28,7 +28,7 @@ A static IP address was configured to ensure the Domain Controller remains consi
 
 ![IP Config 2](https://github.com/user-attachments/assets/25ab1072-7c86-4cb2-990e-792b72cb458b)
 
-![IP Config 3](https://github.com/user-attachments/assets/01512b78-0e72-466f-a5bd-45683c15cb59)
+
 
 ---
 
@@ -37,6 +37,9 @@ A static IP address was configured to ensure the Domain Controller remains consi
 - **Domain Name:** braganca.local  
 
 ### Domain Creation
+
+![Domain Setup](https://github.com/user-attachments/assets/01512b78-0e72-466f-a5bd-45683c15cb59)
+
 ![Domain Setup](https://github.com/user-attachments/assets/bbf17f31-123d-4051-8243-9138d2a1d1b1)
 
 ### Why `.local`?
@@ -52,6 +55,8 @@ A static IP address was configured to ensure the Domain Controller remains consi
 ## Verification & Testing
 
 After configuration, the following tests were performed to validate the setup.
+
+
 
 ---
 
