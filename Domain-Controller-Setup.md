@@ -84,7 +84,7 @@ braganca\Administrator
 
 <img width="2178" height="1359" alt="Image" src="https://github.com/user-attachments/assets/b1c5f423-83df-48c0-ad55-c9a8b7f9113f" />
 
-Domain authentication verified using braganca\Administrator credentials.
+Result: Domain authentication verified using braganca\Administrator credentials.
 
 ---
 
