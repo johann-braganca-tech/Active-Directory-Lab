@@ -12,9 +12,9 @@ A Windows 10 Enterprise virtual machine was configured to simulate a domain clie
 - Hostname: CLIENT01
 
 ### 📸 Output
-```markdown
-![client setup] <img width="2182" height="1237" alt="Image" src="https://github.com/user-attachments/assets/c13976e6-239a-4c03-a59c-5c2f19f7350e" />
-```
+
+![Client Setup](https://github.com/user-attachments/assets/c13976e6-239a-4c03-a59c-5c2f19f7350e)
+
 ---
 
 ## 1. Verify Network Connectivity
