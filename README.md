@@ -1,8 +1,8 @@
 # Enterprise IT Support Lab (Active Directory)
 
-# Active Directory Lab - Core Concepts
+This project simulates a real-world enterprise IT environment using Active Directory on Windows Server 2022.
 
-This section outlines the fundamental concepts used in this project, simulating a real-world enterprise IT environment.
+It demonstrates core IT support skills including user management, domain configuration, DNS setup, and system verification.
 
 ---
 
