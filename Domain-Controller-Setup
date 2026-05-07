@@ -1,0 +1,51 @@
+## Domain Controller Setup
+
+A virtual machine running Windows Server 2022 was configured as the Domain Controller for this lab environment. 
+This server provides centralized authentication, authorization, and directory services using Active Directory.
+---
+
+<img width="2503" height="1530" alt="Image" src="https://github.com/user-attachments/assets/029090cc-52a6-4517-a219-fd4109354767" />
+
+- **Hostname:** DC01  
+- **Operating System:** Windows Server 2022  
+- **IP Address:** 192.168.26.129 (Static)  
+- **Server Role:** Active Directory Domain Services (AD DS)  
+
+<img width="2176" height="1408" alt="Image" src="https://github.com/user-attachments/assets/c97ccc46-93de-4275-acce-edd386df6a24" />
+
+<img width="2704" height="1638" alt="Image" src="https://github.com/user-attachments/assets/25ab1072-7c86-4cb2-990e-792b72cb458b" />
+
+<img width="2179" height="1357" alt="Image" src="https://github.com/user-attachments/assets/01512b78-0e72-466f-a5bd-45683c15cb59" />
+
+---
+
+### Domain Configuration
+
+- **Domain Name:** braganca.local  
+
+<img width="2175" height="1357" alt="Image" src="https://github.com/user-attachments/assets/bbf17f31-123d-4051-8243-9138d2a1d1b1" />
+
+---
+
+### Verification:
+
+- Verified IP Configuration using: 
+
+ipconfig
+
+<img width="2703" height="1635" alt="Image" src="https://github.com/user-attachments/assets/0c388985-c458-4709-acc2-5f4cb0bc3e04" />
+
+---
+
+- Verified DNS resolution:
+
+nslookup braganca.local
+
+<img width="2172" height="1354" alt="Image" src="https://github.com/user-attachments/assets/2decef54-e6fc-459f-a88e-63449ed296b4" />
+---
+
+- Confirmed successful domain setup via login screen (braganca\Administrator)
+
+<img width="2178" height="1359" alt="Image" src="https://github.com/user-attachments/assets/b1c5f423-83df-48c0-ad55-c9a8b7f9113f" />
+
+---
