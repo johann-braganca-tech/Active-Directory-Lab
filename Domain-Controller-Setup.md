@@ -13,8 +13,10 @@ This server provides centralized authentication, authorization, and directory se
 - **IP Address:** 192.168.26.129 (Static)  
 - **Server Role:** Active Directory Domain Services (AD DS)  
 
-### 📸 Server Setup
+### Server Setup
 ![Server Setup](https://github.com/user-attachments/assets/029090cc-52a6-4517-a219-fd4109354767)
+
+![Server Setup](https://github.com/user-attachments/assets/c97ccc46-93de-4275-acce-edd386df6a24)
 
 ---
 
@@ -23,7 +25,6 @@ This server provides centralized authentication, authorization, and directory se
 A static IP address was configured to ensure the Domain Controller remains consistently reachable by client machines.
 
 ### IP Configuration
-![IP Config](https://github.com/user-attachments/assets/c97ccc46-93de-4275-acce-edd386df6a24)
 
 ![IP Config 2](https://github.com/user-attachments/assets/25ab1072-7c86-4cb2-990e-792b72cb458b)
 
