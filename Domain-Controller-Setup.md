@@ -60,8 +60,34 @@ After configuration, the following tests were performed to validate the setup.
 
 ---
 
-### 🔍 1. Verify IP Configuration
+### 1. Verify IP Configuration
 
 Command:
 ```bash
 ipconfig
+
+<img width="2703" height="1635" alt="Image" src="https://github.com/user-attachments/assets/0c388985-c458-4709-acc2-5f4cb0bc3e04" />
+
+
+### 2. Verify DNS Resolution
+
+**Command:**
+```bash
+nslookup braganca.local
+
+<img width="2172" height="1354" alt="Image" src="https://github.com/user-attachments/assets/2decef54-e6fc-459f-a88e-63449ed296b4" />
+
+
+### 🔍 3. Verify Domain Authentication
+
+**Login Used:**
+```text
+braganca\Administrator
+
+<img width="2178" height="1359" alt="Image" src="https://github.com/user-attachments/assets/b1c5f423-83df-48c0-ad55-c9a8b7f9113f" />
+
+Domain authentication verified using braganca\Administrator credentials.
+---
+
+
+
