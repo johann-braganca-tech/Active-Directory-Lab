@@ -1,6 +1,14 @@
-# Lab Implementation – Client Machine & Connectivity
+# Domain Client Connectivity Testing
 
-This section documents the setup and testing of a client machine within the Active Directory environment.
+## Objective
+
+To configure a Windows 10 client machine and verify connectivity with the Active Directory domain environment.
+
+---
+
+## Overview
+
+This section documents the configuration of a Windows 10 client machine and the testing of network connectivity within the Active Directory environment.
 
 ---
 
@@ -8,12 +16,15 @@ This section documents the setup and testing of a client machine within the Acti
 
 A Windows 10 Enterprise virtual machine was configured to simulate a domain client.
 
-### Configuration:
+### Configuration
+
 - Hostname: CLIENT01
 
-### Output
+---
 
-Client Setup
+## Client Setup Output
+
+The following screenshots show the Windows 10 client machine configuration.
 
 <img width="2182" height="1240" alt="Image" src="https://github.com/user-attachments/assets/ef1fcf0e-ae15-48a5-b93d-e52e032376f0" />
 
