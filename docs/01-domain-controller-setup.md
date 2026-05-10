@@ -1,22 +1,30 @@
-## Domain Controller Setup
+# Domain Controller Setup
 
-A virtual machine running Windows Server 2022 was configured as the Domain Controller for this lab environment.  
+To configure a Windows Server 2022 Domain Controller using Active Directory Domain Services (AD DS) and create a working domain environment.
 
-This server provides centralized authentication, authorization, and directory services using Active Directory.
+---
+## Overview
+
+A Windows Server 2022 virtual machine was configured as the Domain Controller for this Active Directory environment.
+
+The server provides centralized authentication, authorization and directory services for users and computers within the domain.
 
 ---
 
 ## Server Configuration
 
-- **Hostname:** DC01  
-- **Operating System:** Windows Server 2022  
-- **IP Address:** 192.168.26.129 (Static)  
-- **Server Role:** Active Directory Domain Services (AD DS)  
+- Hostname: DC01
+- Operating System: Windows Server 2022
+- IP Address: 192.168.26.129 (Static)
+- Server Role: Active Directory Domain Services (AD DS)
 
-### Server Setup
-![Server Setup](https://github.com/user-attachments/assets/029090cc-52a6-4517-a219-fd4109354767)
+## Server Setup
 
-![Server Setup](https://github.com/user-attachments/assets/c97ccc46-93de-4275-acce-edd386df6a24)
+The following screenshots show the Windows Server 2022 setup and initial server configuration.
+
+<img width="2503" height="1530" alt="Image" src="https://github.com/user-attachments/assets/029090cc-52a6-4517-a219-fd4109354767" />
+
+<img width="2176" height="1408" alt="Image" src="https://github.com/user-attachments/assets/c97ccc46-93de-4275-acce-edd386df6a24" />
 
 ---
 
@@ -26,19 +34,21 @@ A static IP address was configured to ensure the Domain Controller remains consi
 
 ### IP Configuration
 
-![IP Config 2](https://github.com/user-attachments/assets/25ab1072-7c86-4cb2-990e-792b72cb458b)
+<img width="2704" height="1638" alt="Image" src="https://github.com/user-attachments/assets/25ab1072-7c86-4cb2-990e-792b72cb458b" />
 
 ---
 
 ## Domain Configuration
 
-- **Domain Name:** braganca.local  
+- Domain Name: braganca.local  
 
-### Domain Creation
+### Domain Setup
 
-![Domain Setup](https://github.com/user-attachments/assets/01512b78-0e72-466f-a5bd-45683c15cb59)
+The following screenshots show the domain creation process.
 
-![Domain Setup](https://github.com/user-attachments/assets/bbf17f31-123d-4051-8243-9138d2a1d1b1)
+<img width="2175" height="1357" alt="Image" src="https://github.com/user-attachments/assets/bbf17f31-123d-4051-8243-9138d2a1d1b1" />
+
+<img width="2179" height="1357" alt="Image" src="https://github.com/user-attachments/assets/01512b78-0e72-466f-a5bd-45683c15cb59" />
 
 ### Why `.local`?
 
@@ -67,7 +77,7 @@ ipconfig
 
 ### 2. Verify DNS Resolution
 
-**Command:**
+Command:
 ```bash
 nslookup braganca.local
 ```
