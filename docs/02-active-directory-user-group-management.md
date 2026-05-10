@@ -98,7 +98,11 @@ Users were assigned to security groups based on their department.
 
 The following screenshots show group membership configuration within Active Directory.
 
-[SCREENSHOTS]
+<img width="2176" height="1357" alt="Image" src="https://github.com/user-attachments/assets/59776436-c6bc-4050-a254-45f51d8bc9b9" />
+
+<img width="2181" height="1351" alt="Image" src="https://github.com/user-attachments/assets/15071753-1d0e-427a-85c3-037978a44136" />
+
+<img width="2182" height="1354" alt="Image" src="https://github.com/user-attachments/assets/85c64d40-da89-4113-ab33-85af3d91f261" />
 
 ---
 
